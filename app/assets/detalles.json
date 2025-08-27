@@ -1,0 +1,115 @@
+[
+  {
+    "idServicio": 1,
+    "nombre": "Terapia Facial Anti-Edad",
+    "urlimagen": "https://i.pinimg.com/736x/9a/2a/94/9a2a9477f0960e468dc1f23db01637ea.jpg",
+    "variantes": [
+      { "id": 101, "tipo": "Básico", "duracion": "45 min", "precio": "50", "urlimagen": "https://i.pinimg.com/736x/a2/bd/77/a2bd7765cbca0dc4106ba36e3da65d05.jpg", "descripcion": "Limpieza facial profunda utilizando productos 100% naturales que hidratan y revitalizan la piel. Ideal para reducir signos de fatiga y mejorar la luminosidad." },
+      { "id": 102, "tipo": "Premium", "duracion": "60 min", "precio": "80", "urlimagen": "https://i.pinimg.com/736x/37/7d/3a/377d3a0bb8119d271db68030d2c19a29.jpg", "descripcion": "Incluye limpieza facial profunda, masaje relajante y aplicación de mascarilla natural anti-edad que suaviza arrugas y mejora la elasticidad de la piel." },
+      { "id": 103, "tipo": "Deluxe", "duracion": "75 min", "precio": "100", "urlimagen": "https://i.pinimg.com/1200x/0a/12/38/0a12386cbc7f4cbea75e8ff2034a6583.jpg", "descripcion": "Tratamiento completo con exfoliación suave, masaje facial y mascarilla nutritiva elaborada con extractos naturales que regeneran la piel y reducen líneas de expresión." },
+      { "id": 104, "tipo": "Gold", "duracion": "90 min", "precio": "120", "urlimagen": "https://i.pinimg.com/736x/0a/4f/a1/0a4fa18824cf78b369e6329a6fa458f6.jpg", "descripcion": "Experiencia premium que combina limpieza profunda, masaje, mascarilla regenerativa y sérum natural concentrado para rejuvenecer y dar luminosidad al rostro." }
+    ]
+  },
+  {
+    "idServicio": 2,
+    "nombre": "Corte de Cabello Profesional",
+    "urlimagen": "https://i.pinimg.com/736x/f8/da/71/f8da715ebed6dda2560e58a2b3d77e83.jpg",
+    "variantes": [
+      { "id": 201, "tipo": "Básico", "duracion": "30 min", "precio": "20", "urlimagen": "https://i.pinimg.com/1200x/65/fd/aa/65fdaa725d885084efc05b5a179bc982.jpg", "descripcion": "Corte profesional básico utilizando tijeras y productos naturales que hidratan y fortalecen el cabello, manteniendo su brillo y suavidad." },
+      { "id": 202, "tipo": "Con Peinado", "duracion": "60 min", "precio": "40", "urlimagen": "https://i.pinimg.com/736x/d0/88/61/d088616b33d5bed8b29a676de17805a6.jpg", "descripcion": "Corte profesional más peinado con productos naturales que cuidan la textura del cabello, ideal para eventos y ocasiones especiales." },
+      { "id": 203, "tipo": "Premium", "duracion": "75 min", "precio": "60", "urlimagen": "https://i.pinimg.com/736x/f8/da/71/f8da715ebed6dda2560e58a2b3d77e83.jpg", "descripcion": "Corte avanzado con tratamiento nutritivo a base de productos naturales, ideal para fortalecer el cabello y mantener su salud y brillo natural." },
+      { "id": 204, "tipo": "Gold", "duracion": "90 min", "precio": "80", "urlimagen": "https://i.pinimg.com/736x/04/f2/0d/04f20da3ed294145cd0ea0552e09476f.jpg", "descripcion": "Servicio completo premium con corte, peinado y tratamiento capilar natural intensivo que deja el cabello brillante, suave y manejable." }
+    ]
+  },
+  {
+    "idServicio": 3,
+    "nombre": "Manicura y Pedicura",
+    "urlimagen": "https://i.pinimg.com/736x/ee/5d/c9/ee5dc973fad1dc37c34704b744135d18.jpg",
+    "variantes": [
+      { "id": 301, "tipo": "Básico", "duracion": "30 min", "precio": "25", "urlimagen": "https://i.pinimg.com/736x/52/cc/0d/52cc0d3a2c9c2548a3f3fd0748c2e523.jpg", "descripcion": "Limpieza y cuidado básico de uñas utilizando productos naturales, fortaleciendo uñas y cutículas, y dejando un acabado limpio y saludable." },
+      { "id": 302, "tipo": "Premium", "duracion": "45 min", "precio": "35", "urlimagen": "https://i.pinimg.com/736x/77/56/9c/77569ccc4a8155a116cd15d948933d98.jpg", "descripcion": "Manicura y pedicura con exfoliación de manos y pies, hidratación profunda con productos naturales y esmaltado profesional de larga duración." },
+      { "id": 303, "tipo": "Deluxe", "duracion": "60 min", "precio": "45", "urlimagen": "https://i.pinimg.com/736x/33/ed/85/33ed85f4e26a55c1a1a723998f5297a3.jpg", "descripcion": "Tratamiento completo con exfoliación, masaje, hidratación y esmaltado con productos naturales que fortalecen uñas y suavizan la piel." }
+    ]
+  },
+  {
+    "idServicio": 4,
+    "nombre": "Masajes Relajantes",
+    "urlimagen": "https://i.pinimg.com/736x/d0/36/7c/d0367c94a848a2db5049613769d05573.jpg",
+    "variantes": [
+      { "id": 401, "tipo": "Básico", "duracion": "30 min", "precio": "30", "urlimagen": "https://i.pinimg.com/1200x/ef/2e/12/ef2e12733de87684c6ed25b2df037964.jpg", "descripcion": "Masaje relajante básico utilizando aceites naturales que alivian tensión muscular y promueven sensación de bienestar." },
+      { "id": 402, "tipo": "Premium", "duracion": "60 min", "precio": "50", "urlimagen": "https://i.pinimg.com/1200x/28/02/6b/28026b06104b898372a2735e2960db45.jpg", "descripcion": "Masaje completo con técnicas de relajación profunda y aceites esenciales naturales para aliviar estrés y mejorar circulación." },
+      { "id": 403, "tipo": "Deluxe", "duracion": "75 min", "precio": "70", "urlimagen": "https://i.pinimg.com/1200x/0f/8d/92/0f8d926e26713783b6207fda39978160.jpg", "descripcion": "Masaje intensivo de cuerpo completo con productos naturales, fomentando relajación profunda y alivio de dolores musculares." }
+    ]
+  },
+  {
+    "idServicio": 5,
+    "nombre": "Depilación Láser",
+    "urlimagen": "https://i.pinimg.com/736x/cc/72/df/cc72dfe898093090a4a9591c84e8f549.jpg",
+    "variantes": [
+      { "id": 501, "tipo": "Básico", "duracion": "20 min", "precio": "25", "urlimagen": "https://i.pinimg.com/736x/57/28/51/5728510f4eca9a68272f5566bf8ce125.jpg", "descripcion": "Depilación láser rápida con cuidado natural de la piel, utilizando productos calmantes y naturales para evitar irritaciones." },
+      { "id": 502, "tipo": "Premium", "duracion": "40 min", "precio": "45", "urlimagen": "https://i.pinimg.com/1200x/8d/c7/17/8dc7172d2a74f83778c46f8e082f05db.jpg", "descripcion": "Depilación láser más extensa, complementada con exfoliación ligera y aplicación de geles naturales para suavizar y proteger la piel." },
+      { "id": 503, "tipo": "Deluxe", "duracion": "60 min", "precio": "65", "urlimagen": "https://i.pinimg.com/736x/2a/df/34/2adf34c137a87d93915419f2cafd89a1.jpg", "descripcion": "Tratamiento avanzado con depilación láser, exfoliación y mascarilla calmante natural que hidrata y previene irritaciones." }
+     
+    ]
+  },
+  {
+    "idServicio": 6,
+    "nombre": "Tratamiento Capilar Nutritivo",
+    "urlimagen": "https://i.pinimg.com/736x/4c/0e/85/4c0e85341583597576ec2228eef6c06e.jpg",
+    "variantes": [
+      { "id": 601, "tipo": "Básico", "duracion": "30 min", "precio": "40", "urlimagen": "https://i.pinimg.com/736x/be/35/36/be3536793d81673fefbf01aa56623160.jpg", "descripcion": "Aplicación de mascarilla capilar natural que hidrata y fortalece el cabello, ideal para mantenerlo saludable y brillante." },
+      { "id": 602, "tipo": "Premium", "duracion": "60 min", "precio": "70", "urlimagen": "https://i.pinimg.com/1200x/e7/66/92/e766922b2a9dc668ffac9a99b4aa6cfb.jpg", "descripcion": "Tratamiento nutritivo con masaje del cuero cabelludo y productos naturales que fortalecen raíces y dan brillo intenso al cabello." },
+      { "id": 603, "tipo": "Deluxe", "duracion": "75 min", "precio": "90", "urlimagen": "https://i.pinimg.com/736x/59/37/c8/5937c8b668dbdb874ecc99c0330521a1.jpg", "descripcion": "Tratamiento intensivo con mascarilla, masaje y acondicionadores naturales que reparan y nutren profundamente el cabello." }
+    ]
+  },
+  {
+    "idServicio": 7,
+    "nombre": "Peinados para Eventos",
+    "urlimagen": "https://i.pinimg.com/736x/75/81/ea/7581ea4958c2312714c0c552ceaa6cdc.jpg",
+    "variantes": [
+      { "id": 701, "tipo": "Básico", "duracion": "45 min", "precio": "35", "urlimagen": "https://i.pinimg.com/736x/7a/a1/e2/7aa1e23651fd9181812e6e96b9716bd4.jpg", "descripcion": "Peinado sencillo con productos naturales que protegen el cabello y aportan brillo para cualquier evento casual." },
+      { "id": 702, "tipo": "Premium", "duracion": "60 min", "precio": "50", "urlimagen": "https://i.pinimg.com/736x/2d/7f/66/2d7f66da2c3b948df9e8e934de30a866.jpg", "descripcion": "Peinado más elaborado con fijación natural y cuidado del cabello mediante productos nutritivos para un acabado elegante y duradero." },
+      { "id": 703, "tipo": "Deluxe", "duracion": "75 min", "precio": "70", "urlimagen": "https://i.pinimg.com/736x/83/a3/6e/83a36ed814ef5e4a1ecc363f954da941.jpg", "descripcion": "Peinado profesional con estilo creativo, utilizando productos naturales que hidratan y dan brillo al cabello, perfecto para eventos especiales." }
+    ]
+  },
+  {
+    "idServicio": 8,
+    "nombre": "Maquillaje Profesional",
+    "urlimagen": "https://i.pinimg.com/736x/3d/f1/55/3df1556e8f769f05b598837c17096f54.jpg",
+    "variantes": [
+      { "id": 801, "tipo": "Básico", "duracion": "30 min", "precio": "40", "urlimagen": "https://i.pinimg.com/736x/d9/48/cf/d948cfb0df83be02fb03f6c2d6f591db.jpg", "descripcion": "Maquillaje sencillo usando productos naturales, resaltando rasgos faciales de manera sutil y elegante." },
+      { "id": 802, "tipo": "Premium", "duracion": "60 min", "precio": "70", "urlimagen": "https://i.pinimg.com/1200x/e6/86/42/e686429ef6b9804236c1e11da1450521.jpg", "descripcion": "Maquillaje completo con técnicas profesionales y productos naturales, ideal para eventos sociales o fotografía." },
+      { "id": 803, "tipo": "Deluxe", "duracion": "75 min", "precio": "90", "urlimagen": "https://i.pinimg.com/736x/0d/24/48/0d24485fbf698e6ccb46a53c18277853.jpg", "descripcion": "Maquillaje avanzado con productos naturales de alta calidad, resaltando la belleza natural y garantizando duración prolongada." }
+    ]
+  },
+  {
+    "idServicio": 9,
+    "nombre": "Exfoliación Corporal",
+    "urlimagen": "https://i.pinimg.com/736x/69/0a/5e/690a5e19f137de020159f09a806b1013.jpg",
+    "variantes": [
+      { "id": 901, "tipo": "Básico", "duracion": "30 min", "precio": "35", "urlimagen": "https://i.pinimg.com/736x/25/38/56/253856f7efe0e6d9cf5bf7da8d97af2c.jpg", "descripcion": "Exfoliación suave de la piel utilizando productos naturales que eliminan células muertas y dejan la piel suave y renovada." },
+      { "id": 902, "tipo": "Premium", "duracion": "60 min", "precio": "60", "urlimagen": "https://i.pinimg.com/736x/0f/62/f1/0f62f1a391afd2fdeff50aaff2360c75.jpg", "descripcion": "Exfoliación profunda con mascarillas naturales que nutren la piel, hidratándola y dejándola tersa y luminosa." }
+    ]
+  },
+  {
+    "idServicio": 10,
+    "nombre": "Diseño de Cejas",
+    "urlimagen": "https://i.pinimg.com/736x/47/57/ea/4757ea2ceb970045179e137d356b055b.jpg",
+    "variantes": [
+      { "id": 1001, "tipo": "Básico", "duracion": "20 min", "precio": "15", "urlimagen": "https://i.pinimg.com/736x/32/f3/b3/32f3b38e5be2c094bc02d3e351b704fe.jpg", "descripcion": "Diseño de cejas básico con productos naturales que cuidan la piel y definen la forma de manera sutil." },
+      { "id": 1002, "tipo": "Premium", "duracion": "40 min", "precio": "30", "urlimagen": "https://i.pinimg.com/1200x/09/db/9c/09db9c9f921fc238dd837cc23ac2d59c.jpg", "descripcion": "Diseño de cejas completo con técnica profesional y productos naturales que fortalecen los folículos y resaltan la forma natural." }
+    ]
+  },
+  {
+    "idServicio": 11,
+    "nombre": "Tratamiento de Pestañas",
+    "urlimagen": "https://i.pinimg.com/736x/cc/e6/8b/cce68b2c0b6cb647aba60db6e0d8d2a1.jpg",
+    "variantes": [
+      { "id": 1101, "tipo": "Básico", "duracion": "30 min", "precio": "25", "urlimagen": "https://i.pinimg.com/736x/cb/5b/e5/cb5be55e953431a5868597b5d94116d9.jpg", "descripcion": "Tratamiento básico con productos naturales que fortalecen y acondicionan las pestañas, aportando brillo y volumen natural." },
+      { "id": 1102, "tipo": "Premium", "duracion": "60 min", "precio": "50", "urlimagen": "https://i.pinimg.com/736x/df/58/e0/df58e0b668101bdb581769a074825b7c.jpg", "descripcion": "Tratamiento completo con aplicación de sérum natural, fortaleciendo las pestañas y mejorando su densidad y curvatura." },
+      { "id": 1104, "tipo": "Gold", "duracion": "90 min", "precio": "90", "urlimagen": "https://i.pinimg.com/736x/cc/e6/8b/cce68b2c0b6cb647aba60db6e0d8d2a1.jpg", "descripcion": "Experiencia premium con tratamiento completo de pestañas usando productos naturales que fortalecen, alargan y dan volumen para un look espectacular." }
+    ]
+  }
+
+  
+]

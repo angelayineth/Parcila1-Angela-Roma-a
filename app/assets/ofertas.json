@@ -1,0 +1,14 @@
+[
+  {
+    "id": 1,
+    "name": "Oferta 1",
+    "urlimagen": "https://i.pinimg.com/1200x/19/54/c7/1954c7ec0320d36cd7748985619ee011.jpg",
+    "description": "Descuento del 20% en servicios."
+  },
+  {
+    "id": 2,
+    "name": "Oferta 2",
+    "urlimagen": "https://i.pinimg.com/736x/5f/b2/e9/5fb2e921172c3387c76deba033420e93.jpg",
+    "description": "2x1 en ciertos tratamientos."
+  }
+]

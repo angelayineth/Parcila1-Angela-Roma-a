@@ -1,0 +1,37 @@
+[
+  {
+    "id": 1,
+    "nombre": "María González",
+    "urlimagen": "https://i.pinimg.com/736x/96/6c/94/966c94524085cd7a3c131d606952c613.jpg",
+    "estrellas": 5,
+    "especialidad": "Estilista de Cabello"
+  },
+  {
+    "id": 2,
+    "nombre": "Ana Sánchez",
+    "urlimagen": "https://i.pinimg.com/736x/e0/f4/92/e0f49289e25c7ae0b70a26cafb4c90f1.jpg",
+    "estrellas": 4,
+    "especialidad": "Terapias Faciales"
+  },
+  {
+    "id": 3,
+    "nombre": "Pedro López",
+    "urlimagen": "https://randomuser.me/api/portraits/men/33.jpg",
+    "estrellas": 4,
+    "especialidad": "Manicura y Pedicura"
+  },
+  {
+    "id": 4,
+    "nombre": "Laura Fernández",
+    "urlimagen": "https://i.pinimg.com/736x/f1/64/09/f164098b49adea5e75f9921991908df0.jpg",
+    "estrellas": 5,
+    "especialidad": "Masajes Corporales"
+  },
+  {
+    "id": 5,
+    "nombre": "Luz mar",
+    "urlimagen": "https://i.pinimg.com/736x/26/3c/e7/263ce780ebfbe997c98f8128dbcb407a.jpg",
+    "estrellas": 3,
+    "especialidad": "Cirugía Estética"
+  }
+]

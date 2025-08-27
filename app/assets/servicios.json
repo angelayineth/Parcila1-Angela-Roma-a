@@ -1,0 +1,58 @@
+[
+  {
+    "id": 1,
+    "nombre": "Terapia Facial Anti-Edad",
+    "urlimagen": "https://i.pinimg.com/736x/9a/2a/94/9a2a9477f0960e468dc1f23db01637ea.jpg"
+  },
+  {
+    "id": 2,
+    "nombre": "Corte de Cabello Profesional",
+    "urlimagen": "https://i.pinimg.com/736x/f8/da/71/f8da715ebed6dda2560e58a2b3d77e83.jpg"
+  },
+  {
+    "id": 3,
+    "nombre": "Manicura y Pedicura",
+    "urlimagen": "https://www.w3schools.com/w3images/fjords.jpg"
+  },
+  {
+    "id": 4,
+    "nombre": "Masajes Relajantes",
+    "urlimagen": "https://i.pinimg.com/736x/d0/36/7c/d0367c94a848a2db5049613769d05573.jpg"
+  },
+  {
+    "id": 5,
+    "nombre": "Depilación Láser",
+    "urlimagen": "https://i.pinimg.com/736x/cc/72/df/cc72dfe898093090a4a9591c84e8f549.jpg"
+  },
+  {
+    "id": 6,
+    "nombre": "Tratamiento Capilar Nutritivo",
+    "urlimagen": "https://i.pinimg.com/736x/4c/0e/85/4c0e85341583597576ec2228eef6c06e.jpg"
+  },
+  {
+    "id": 7,
+    "nombre": "Peinados para Eventos",
+    "urlimagen": "https://i.pinimg.com/736x/75/81/ea/7581ea4958c2312714c0c552ceaa6cdc.jpg"
+  },
+  {
+    "id": 8,
+    "nombre": "Maquillaje Profesional",
+    "urlimagen": "https://i.pinimg.com/736x/3d/f1/55/3df1556e8f769f05b598837c17096f54.jpg"
+  },
+  {
+    "id": 9,
+    "nombre": "Exfoliación Corporal",
+    "urlimagen": "https://i.pinimg.com/736x/69/0a/5e/690a5e19f137de020159f09a806b1013.jpg"
+  },
+  {
+    "id": 10,
+    "nombre": "Diseño de Cejas ",
+    "urlimagen": "https://i.pinimg.com/736x/47/57/ea/4757ea2ceb970045179e137d356b055b.jpg"
+  },
+  {
+    "id": 11,
+    "nombre": "Tratamiento de Pestañas",
+    "urlimagen": "https://i.pinimg.com/736x/cc/e6/8b/cce68b2c0b6cb647aba60db6e0d8d2a1.jpg"
+  }
+  
+]
